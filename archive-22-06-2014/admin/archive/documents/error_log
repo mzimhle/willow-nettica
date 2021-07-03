@@ -1,0 +1,18 @@
+[07-Jul-2013 02:01:16 Africa/Johannesburg] PHP Warning:  require_once(class/document.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/willnett/public_html/admin/archive/documents/default.php on line 11
+[07-Jul-2013 02:01:16 Africa/Johannesburg] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class/document.php' (include_path='/home/willnett/public_html/:/home/willnett/public_html/library/classes/') in /home/willnett/public_html/admin/archive/documents/default.php on line 11
+[07-Jul-2013 02:07:24 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'willnett_dbnett.document' doesn't exist' in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('SELECT `documen...')
+#1 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), 'SELECT `documen...')
+#2 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Abstract.php(467): Zend_Db_Adapter_Mysqli->prepare('SELECT `documen...')
+#3 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#4 /home/willnett/public_html/library/classes/class/document.php(106): Zend_Db_Adapter_Abstract->fetchAll(Object(Zend_Db_Select))
+#5 /home/willnett/public_html/admin/archive/documents/default.php(28): class_document->ge in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 77
+[10-Jul-2013 11:27:44 Africa/Johannesburg] PHP Notice:  Undefined variable: documentData in /home/willnett/public_html/admin/archive/documents/details.php on line 77
+[10-Jul-2013 11:27:44 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/archive/documents/details.php:77) in /home/willnett/public_html/admin/archive/documents/details.php on line 114
+[10-Jul-2013 12:57:09 Africa/Johannesburg] PHP Notice:  Undefined variable: documentData in /home/willnett/public_html/admin/archive/documents/details.php on line 77
+[10-Jul-2013 12:57:09 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/archive/documents/details.php:77) in /home/willnett/public_html/admin/archive/documents/details.php on line 114
+[10-Jul-2013 13:14:58 Africa/Johannesburg] PHP Notice:  Undefined variable: documentData in /home/willnett/public_html/admin/archive/documents/details.php on line 77
+[10-Jul-2013 13:14:58 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/archive/documents/details.php:77) in /home/willnett/public_html/admin/archive/documents/details.php on line 114
+[14-Jul-2013 15:36:48 Africa/Johannesburg] PHP Notice:  Undefined variable: documentData in /home/willnett/public_html/admin/archive/documents/details.php on line 77
+[14-Jul-2013 15:36:49 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/archive/documents/details.php:77) in /home/willnett/public_html/admin/archive/documents/details.php on line 114

@@ -1,0 +1,81 @@
+8brand changes count:
+
+1. 	About us - Add slide - 2,3,4 
+2. 	Packaging Add slides - 49,51,52/53,54,56/57,58,59 
+			3. Create image slides 49,51,52 into one image
+			4. Create image slides 53,54,56 into one image
+			5. Create image slides 57,58,59 into one image
+6. 	Branding Add slides: Slides: 91,92,98,106,108,109,110,111,112,113.
+7.		Cut and resize each image for the slide.
+8. 	Add slides after every 3 slides: SLIDE: 1 & 6 MUST APPEAR AFTER EVERY FOUR SLIDES.
+9. 	About us, add content
+10. 	Reference: add scroll buttons
+
+11.	Contacts: Remove location from contact us drop down: please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+		
+12. 	Contact Us : fix styling issue on page. details were overlapping to the headings
+13.	Add Cape Town landline number in Gavin Pienaar’s contact detail
+14.	Remove International Number on Gavin Pienaar's contact detail
+15.	Remove the current Nigerian International Mobile and Add Int'l M: +27 83 675 6340.
+
+16.	Change "news" to BLOG - please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+		
+17.	BLOG to link to www.8brand.wordpress.com - please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+
+18. 	Promotional Branding: delete off the website. please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+		
+19. 	Use the 8B PP Group Com Fin. presentation. The 8 STEP Process is on SLIDE 4. 
+
+20.	Process: Create and design step for image 1
+21.	Process: Create and design step for image 2
+22.	Process: Create and design step for image 3
+23.	Process: Create and design step for image 4
+24.	Process: Create and design step for image 5
+25.	Process: Create and design step for image 6
+26.	Process: Create and design step for image 7
+27.	Process: Create and design step for image 8
+29.	Remove black background at the bottom. - please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+
+30.	Change font color on the footer to black since the background has been changed to white. - please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+
+31.	Create Arabic Button and add it.
+32.	Create African Button and add it.
+33.	Create European Button and add it.
+
+34.	Change bottom footer links to be styled black - please keep in mind that this had to be done on all pages of the website, 
+		there is about 40 pages on the website but I counted it as one change.
+
+35.	The Top 4 need to be one colour, CASE STUDIES and 8 STEP PROCESS must be one colour. 
+		PROPRIETORY TOOLS, PROFESSIONAL ASSOCIATION and PARTNERSHIP must be another.	- There were pages that this was not added, such as the case study pages.
+
+36.	3D images - Create and redesign images.
+
+37.	He also wants the Tabs on the right hand side to move down. They must be in line with slide screen.
+
+38.	Corporate Identity: IDC page
+39.	Corporate Identity: FAIRHEADS Works- page
+40.	Corporate Identity: Dept. Pub page
+41.	Corporate Identity: SPRING BANK page
+42.	Corporate Identity: XPS- page
+43.	Corporate Identity: BeMOBILE page
+44.	Corporate Identity: SAA OPEN page
+45.	Corporate Identity: TISCALI- page
+46.	Corporate Identity: Environmental Man. Insp page
+47.	Corporate Identity: GALAXY- page
+48.	Corporate Identity: ZAIN- page
+49.	Corporate Identity: ESSELEN PARK page
+50.	Corporate Identity: VISIGO- page
+51.	Corporate Identity: UNISUN page
+52.	Corporate Identity: LEADWAY page
+53.	Corporate Identity: JACARANDA page
+54.	Corporate Identity: ELECTRADE page
+55.	Corporate Identity: CELL C page
+56.	Corporate Identity: CELTEL page
+57.	Corporate Identity: VODACOM page
+58.	Corporate Identity: AFRICAN BANK page

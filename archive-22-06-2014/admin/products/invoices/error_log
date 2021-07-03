@@ -1,0 +1,16 @@
+[05-May-2013 18:12:24 Africa/Johannesburg] PHP Warning:  require_once(class/invoice.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/collopco/public_html/admin/shop/invoices/html.php on line 11
+[05-May-2013 18:12:24 Africa/Johannesburg] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class/invoice.php' (include_path='/home/collopco/public_html/:/home/collopco/public_html/library/classes/') in /home/collopco/public_html/admin/shop/invoices/html.php on line 11
+[05-May-2013 22:45:01 Africa/Johannesburg] PHP Warning:  Smarty error: unable to read resource: "/media/invoices/8B2MTT/4SZ36VNPV.html" in /home/collopco/public_html/library/classes/smarty/Smarty.class.php on line 1095
+[05-May-2013 22:45:33 Africa/Johannesburg] PHP Warning:  Smarty error: unable to read resource: "/media/invoices/8B2MTT/4SZ36VNPV.html" in /home/collopco/public_html/library/classes/smarty/Smarty.class.php on line 1095
+[06-May-2013 23:18:35 Africa/Johannesburg] PHP Notice:  Undefined index: fk_product_reference in /home/collopco/public_html/admin/shop/invoices/details.php on line 37
+[06-May-2013 23:18:35 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : No data supplied for parameters in prepared statement' in /home/collopco/public_html/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/collopco/public_html/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/collopco/public_html/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/collopco/public_html/library/classes/Zend/Db/Table/Abstract.php(1506): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Table_Select))
+#3 /home/collopco/public_html/library/classes/Zend/Db/Table/Abstract.php(1322): Zend_Db_Table_Abstract->_fetch(Object(Zend_Db_Table_Select))
+#4 /home/collopco/public_html/library/classes/class/product.php(82): Zend_Db_Table_Abstract->fetchAll(Object(Zend_Db_Table_Select))
+#5 /home/collopco/public_html/admin/shop/invoices/details.php(37): class_product->getByMultipleReference(NULL)
+#6 {main}
+  throw in /home/collopco/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 214
+[07-May-2013 22:34:55 Africa/Johannesburg] PHP Fatal error:  Call to undefined method class_invoiceitem::getByInvoiceReference() in /home/collopco/public_html/admin/shop/invoices/details.php on line 37

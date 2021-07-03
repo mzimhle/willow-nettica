@@ -1,0 +1,6 @@
+[23-Oct-2013 19:21:45 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 64464 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 276
+[23-Oct-2013 19:21:52 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 64464 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 294
+[23-Oct-2013 19:21:56 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 64366 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 294
+[31-Oct-2013 14:24:32 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 64324 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 276
+[12-Nov-2013 14:28:33 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 294
+[08-Jan-2014 14:14:12 Africa/Johannesburg] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 294

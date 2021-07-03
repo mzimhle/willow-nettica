@@ -1,0 +1,3 @@
+[02-Jul-2013 20:04:55 Africa/Johannesburg] PHP Fatal error:  Call to a member function toArray() on a non-object in /home/willnett/public_html/library/classes/class/product.php on line 76
+[02-Jul-2013 21:45:59 Africa/Johannesburg] PHP Notice:  Uninitialized string offset: 36 in /home/willnett/public_html/library/classes/class/product.php on line 94
+[02-Jul-2013 21:45:59 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/library/classes/class/product.php:94) in /home/willnett/public_html/admin/products/items/details.php on line 74

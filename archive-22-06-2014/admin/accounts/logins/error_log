@@ -1,0 +1,4 @@
+[25-Aug-2013 16:53:34 Africa/Johannesburg] PHP Notice:  Undefined index: statusbutton in /home/willnett/public_html/admin/accounts/logins/details.php on line 90
+[25-Aug-2013 16:53:34 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/accounts/logins/details.php:90) in /home/willnett/public_html/admin/accounts/logins/details.php on line 103
+[14-Oct-2013 07:23:01 Africa/Johannesburg] PHP Notice:  Undefined index: statusbutton in /home/willnett/public_html/admin/accounts/logins/details.php on line 90
+[14-Oct-2013 07:23:01 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/accounts/logins/details.php:90) in /home/willnett/public_html/admin/accounts/logins/details.php on line 103

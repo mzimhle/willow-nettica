@@ -1,0 +1,1 @@
+[08-Oct-2013 16:30:48 Africa/Johannesburg] PHP Warning:  Smarty error: unable to read resource: "mailers/invoice/invoice.html" in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1095

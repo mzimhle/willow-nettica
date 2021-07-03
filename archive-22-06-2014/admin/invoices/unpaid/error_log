@@ -1,0 +1,10 @@
+[03-Jul-2013 23:31:01 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'willnett_dbnett.invoicefile' doesn't exist' in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('SELECT `invoice...')
+#1 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), 'SELECT `invoice...')
+#2 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Abstract.php(467): Zend_Db_Adapter_Mysqli->prepare('SELECT `invoice...')
+#3 /home/willnett/public_html/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#4 /home/willnett/public_html/library/classes/class/invoicefile.php(71): Zend_Db_Adapter_Abstract->fetchAll(Object(Zend_Db_Select))
+#5 /home/willnett/public_html/admin/invoices/unpaid/details.php(85): class_invoicefi in /home/willnett/public_html/library/classes/Zend/Db/Statement/Mysqli.php on line 77
+[03-Jul-2013 23:41:03 Africa/Johannesburg] PHP Warning:  Smarty error: unable to read resource: "/mailers/invoice/send_to_client.html" in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1095
+[03-Jul-2013 23:44:11 Africa/Johannesburg] PHP Fatal error:  Smarty error: [in mailers/invoice/send_to_client.html line 6]: syntax error: unrecognized tag: table[class=w0], td[class=w0] { width: 0 !important; (Smarty_Compiler.class.php, line 446) in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1095

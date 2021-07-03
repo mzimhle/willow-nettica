@@ -1,0 +1,23 @@
+[08-Jul-2013 22:13:56 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Mail_Transport_Exception' with message 'Unable to send mail. ' in /home/willnett/public_html/library/classes/Zend/Mail/Transport/Sendmail.php:137
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Mail/Transport/Abstract.php(348): Zend_Mail_Transport_Sendmail->_sendMail()
+#1 /home/willnett/public_html/library/classes/Zend/Mail.php(1178): Zend_Mail_Transport_Abstract->send(Object(Zend_Mail))
+#2 /home/willnett/public_html/crons/invoices/monthly/invoice.php(136): Zend_Mail->send()
+#3 {main}
+  thrown in /home/willnett/public_html/library/classes/Zend/Mail/Transport/Sendmail.php on line 137
+[08-Jul-2013 22:19:37 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Mail_Transport_Exception' with message 'Unable to send mail. ' in /home/willnett/public_html/library/classes/Zend/Mail/Transport/Sendmail.php:137
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Mail/Transport/Abstract.php(348): Zend_Mail_Transport_Sendmail->_sendMail()
+#1 /home/willnett/public_html/library/classes/Zend/Mail.php(1178): Zend_Mail_Transport_Abstract->send(Object(Zend_Mail))
+#2 /home/willnett/public_html/crons/invoices/monthly/invoice.php(136): Zend_Mail->send()
+#3 {main}
+  thrown in /home/willnett/public_html/library/classes/Zend/Mail/Transport/Sendmail.php on line 137
+[09-Jul-2013 09:29:46 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare class Zend_Mail in /home/willnett/public_html/library/classes/Zend/Mail.php on line 1261
+[09-Jul-2013 20:00:23 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare class Zend_Mail in /home/willnett/public_html/library/classes/Zend/Mail.php on line 1261
+[09-Jul-2013 20:04:00 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Mail_Exception' with message 'From Header set twice' in /home/willnett/public_html/library/classes/Zend/Mail.php:664
+Stack trace:
+#0 /home/willnett/public_html/crons/invoices/monthly/invoice.php(133): Zend_Mail->setFrom('info@willow-net...', 'Monthly Invoice...')
+#1 {main}
+  thrown in /home/willnett/public_html/library/classes/Zend/Mail.php on line 664
+[09-Jul-2013 20:06:13 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare class Zend_Mail in /home/willnett/public_html/library/classes/Zend/Mail.php on line 1261
+[09-Jul-2013 20:16:01 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare class Zend_Mail in /home/willnett/public_html/library/classes/Zend/Mail.php on line 1261

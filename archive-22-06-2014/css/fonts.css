@@ -1,0 +1,92 @@
+@font-face {
+	font-family: 'Droid Sans';
+	src: url('fonts/droidsans/droidsans.eot');
+	src: url('fonts/droidsans/droidsans.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/droidsans/droidsans.woff') format('woff'),
+		 url('fonts/droidsans/droidsans.ttf') format('truetype'),
+		 url('fonts/droidsans/droidsans.svg#droid_sans') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-weight: 400;	
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url('fonts/ubuntu/ubuntu.eot');
+	src: url('fonts/ubuntu/ubuntu.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/ubuntu/ubuntu.woff') format('woff'),
+		 url('fonts/ubuntu/ubuntu.ttf') format('truetype'),
+		 url('fonts/ubuntu/ubuntu.svg#ubuntu') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-weight: 400;	
+}
+
+@font-face {
+	font-family: 'ProximaNovaSoft';
+	src: url('fonts/proximanovasoft/proximanovasoft.eot');
+	src: url('fonts/proximanovasoft/proximanovasoft.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/proximanovasoft/proximanovasoft.woff') format('woff'),
+		 url('fonts/proximanovasoft/proximanovasoft.ttf') format('truetype'),
+		 url('fonts/proximanovasoft/proximanovasoft.svg#proximanovasoft') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-weight: 400;	
+}
+
+@font-face {
+	font-family: 'chunkfive';
+	src: url('fonts/chunkfive/chunkfive.eot');
+	src: url('fonts/chunkfive/chunkfive.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/chunkfive/chunkfive.woff') format('woff'),
+		 url('fonts/chunkfive/chunkfive.ttf') format('truetype'),
+		 url('fonts/chunkfive/chunkfive.svg#chunkfive') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-weight: 400;	
+}
+
+.logo-text {
+	font-family: 'chunkfive';
+	color: #A7CE44;
+    padding-right: 10px;
+	font-size: 30px !important;	
+	text-decoration: none;
+}
+.index-domains-heading {
+    float: left;
+    font-size: 13px;
+    line-height: 13px;
+    margin-left: 42px;
+    margin-top: 18px;
+    text-align: center;
+    width: 242px;
+}
+
+.index-shared-heading {
+	width: 242px;
+	margin-left: 22px;
+	/* margin-top: 70px; */
+	margin-top: 7px;
+	font-size: 13px;
+	line-height: -13px;
+	text-align: center;
+	float: left; 
+}
+.index-reseller-heading {
+    float: left;
+    font-size: 13px;
+    line-height: 13px;
+    margin-left: 43px;
+    margin-top: 18px;
+    text-align: center;
+    width: 242px;
+}
+
+.bigtitle {
+	font-family: 'ProximaNovaSoft';
+	color: #A7CE44;
+    padding-right: 10px;
+	/* font-size: 30px !important; */
+	font-size: 20px !important;
+}

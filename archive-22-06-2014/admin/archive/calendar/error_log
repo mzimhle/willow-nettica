@@ -1,0 +1,23 @@
+[05-Jul-2013 03:24:38 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Adapter_Mysqli_Exception' with message 'Table 'willnett_dbnett.calendartype' doesn't exist' in /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php:204
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(824): Zend_Db_Adapter_Mysqli->describeTable('calendartype', NULL)
+#1 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(846): Zend_Db_Table_Abstract->_setupMetadata()
+#2 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(886): Zend_Db_Table_Abstract->_getCols()
+#3 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(970): Zend_Db_Table_Abstract->_setupPrimaryKey()
+#4 /home/willnett/public_html/library/classes/Zend/Db/Table/Select.php(100): Zend_Db_Table_Abstract->info()
+#5 /home/willnett/public_html/library/classes/Zend/Db/Table/Select.php(78): Zend_Db_Table_Select->setTable(Object(class_calendartype))
+#6 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(100 in /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php on line 204
+[05-Jul-2013 03:24:53 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Adapter_Mysqli_Exception' with message 'Table 'willnett_dbnett.calendartype' doesn't exist' in /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php:204
+Stack trace:
+#0 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(824): Zend_Db_Adapter_Mysqli->describeTable('calendartype', NULL)
+#1 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(846): Zend_Db_Table_Abstract->_setupMetadata()
+#2 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(886): Zend_Db_Table_Abstract->_getCols()
+#3 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(970): Zend_Db_Table_Abstract->_setupPrimaryKey()
+#4 /home/willnett/public_html/library/classes/Zend/Db/Table/Select.php(100): Zend_Db_Table_Abstract->info()
+#5 /home/willnett/public_html/library/classes/Zend/Db/Table/Select.php(78): Zend_Db_Table_Select->setTable(Object(class_calendartype))
+#6 /home/willnett/public_html/library/classes/Zend/Db/Table/Abstract.php(100 in /home/willnett/public_html/library/classes/Zend/Db/Adapter/Mysqli.php on line 204
+[05-Jul-2013 03:28:21 Africa/Johannesburg] PHP Warning:  Smarty error: file:admin/includes/header_wide_content.php is not readable in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1095
+[05-Jul-2013 03:28:21 Africa/Johannesburg] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1925
+[05-Jul-2013 03:28:21 Africa/Johannesburg] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1925
+[05-Jul-2013 03:28:21 Africa/Johannesburg] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='/home/willnett/public_html/:/home/willnett/public_html/library/classes/') in /home/willnett/public_html/library/classes/smarty/Smarty.class.php on line 1925
+[05-Jul-2013 03:32:50 Africa/Johannesburg] PHP Fatal error:  Call to undefined method class_domain::pairs() in /home/willnett/public_html/admin/archive/calendar/add.php on line 25

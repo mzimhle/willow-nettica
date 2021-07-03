@@ -1,0 +1,4 @@
+[23-Oct-2013 15:59:40 Africa/Johannesburg] PHP Notice:  Undefined property: class_client::$db in /home/willnett/public_html/library/classes/class/client.php on line 106
+[23-Oct-2013 15:59:40 Africa/Johannesburg] PHP Fatal error:  Call to a member function fetchRow() on a non-object in /home/willnett/public_html/library/classes/class/client.php on line 106
+[23-Oct-2013 16:02:10 Africa/Johannesburg] PHP Notice:  Undefined property: class_client::$db in /home/willnett/public_html/library/classes/class/client.php on line 170
+[23-Oct-2013 16:02:10 Africa/Johannesburg] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/willnett/public_html/library/classes/class/client.php on line 170

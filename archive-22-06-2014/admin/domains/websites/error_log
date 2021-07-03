@@ -1,0 +1,31 @@
+[27-Jun-2013 20:31:34 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 17:59:27 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:04:28 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:04:59 Africa/Johannesburg] PHP Notice:  Undefined index: domain_address in /home/willnett/public_html/admin/domains/websites/details.php on line 101
+[02-Jul-2013 18:04:59 Africa/Johannesburg] PHP Notice:  Undefined index: domain_organization in /home/willnett/public_html/admin/domains/websites/details.php on line 102
+[02-Jul-2013 18:04:59 Africa/Johannesburg] PHP Notice:  Undefined index: domain_number in /home/willnett/public_html/admin/domains/websites/details.php on line 103
+[02-Jul-2013 18:04:59 Africa/Johannesburg] PHP Notice:  Undefined index: domain_fax in /home/willnett/public_html/admin/domains/websites/details.php on line 104
+[02-Jul-2013 18:04:59 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/domains/websites/details.php:101) in /home/willnett/public_html/admin/domains/websites/details.php on line 118
+[02-Jul-2013 18:05:03 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:05:15 Africa/Johannesburg] PHP Notice:  Undefined index: domain_address in /home/willnett/public_html/admin/domains/websites/details.php on line 101
+[02-Jul-2013 18:05:15 Africa/Johannesburg] PHP Notice:  Undefined index: domain_organization in /home/willnett/public_html/admin/domains/websites/details.php on line 102
+[02-Jul-2013 18:05:15 Africa/Johannesburg] PHP Notice:  Undefined index: domain_number in /home/willnett/public_html/admin/domains/websites/details.php on line 103
+[02-Jul-2013 18:05:15 Africa/Johannesburg] PHP Notice:  Undefined index: domain_fax in /home/willnett/public_html/admin/domains/websites/details.php on line 104
+[02-Jul-2013 18:05:15 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/domains/websites/details.php:101) in /home/willnett/public_html/admin/domains/websites/details.php on line 118
+[02-Jul-2013 18:05:18 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:05:29 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:06:01 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 18:06:04 Africa/Johannesburg] PHP Notice:  Undefined index: domain_address in /home/willnett/public_html/admin/domains/websites/details.php on line 101
+[02-Jul-2013 18:06:04 Africa/Johannesburg] PHP Notice:  Undefined index: domain_organization in /home/willnett/public_html/admin/domains/websites/details.php on line 102
+[02-Jul-2013 18:06:04 Africa/Johannesburg] PHP Notice:  Undefined index: domain_number in /home/willnett/public_html/admin/domains/websites/details.php on line 103
+[02-Jul-2013 18:06:04 Africa/Johannesburg] PHP Notice:  Undefined index: domain_fax in /home/willnett/public_html/admin/domains/websites/details.php on line 104
+[02-Jul-2013 18:06:04 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/domains/websites/details.php:101) in /home/willnett/public_html/admin/domains/websites/details.php on line 118
+[02-Jul-2013 18:06:07 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 20:50:07 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 21:10:12 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 21:10:39 Africa/Johannesburg] PHP Notice:  Undefined variable: cache in /home/willnett/public_html/admin/domains/websites/details.php on line 127
+[02-Jul-2013 21:12:22 Africa/Johannesburg] PHP Notice:  Undefined index: domain_address in /home/willnett/public_html/admin/domains/websites/details.php on line 101
+[02-Jul-2013 21:12:22 Africa/Johannesburg] PHP Notice:  Undefined index: domain_organization in /home/willnett/public_html/admin/domains/websites/details.php on line 102
+[02-Jul-2013 21:12:22 Africa/Johannesburg] PHP Notice:  Undefined index: domain_number in /home/willnett/public_html/admin/domains/websites/details.php on line 103
+[02-Jul-2013 21:12:22 Africa/Johannesburg] PHP Notice:  Undefined index: domain_fax in /home/willnett/public_html/admin/domains/websites/details.php on line 104
+[02-Jul-2013 21:12:22 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/willnett/public_html/admin/domains/websites/details.php:101) in /home/willnett/public_html/admin/domains/websites/details.php on line 118
